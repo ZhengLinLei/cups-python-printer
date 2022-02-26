@@ -1,5 +1,8 @@
 # CUPS Python Printer Software
 
+Window users [https://github.com/ZhengLinLei/windows-python-printer](https://github.com/ZhengLinLei/windows-python-printer)
+
+
 Import the source code to your project, and read the examples.
 ```python
 
