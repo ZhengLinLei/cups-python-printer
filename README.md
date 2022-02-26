@@ -17,12 +17,12 @@ sudo apt install wkhtmltopdf
 Import the source code to your project, and read the examples.
 ```python
 
-aa = PrintFile()
+# aa = PrintFile()
 
-aa.addFile('./test/test.pdf', 'Test', options = {
-     'page-height': '210mm',
-     'page-width': '80mm',
-})
+# aa.addFile('./test/test.pdf', 'Test', options = {
+#     'page-height': '210mm',
+#     'page-width': '80mm',
+# })
 
 aa = PrintHTML('./tmp', options = {
     'page-height': '210mm',
