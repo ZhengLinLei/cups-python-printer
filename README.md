@@ -3,6 +3,17 @@
 Window users [https://github.com/ZhengLinLei/windows-python-printer](https://github.com/ZhengLinLei/windows-python-printer)
 
 
+## Installation
+
+Install `wkhtmltopdf` in [https://wkhtmltopdf.org/downloads.html](https://wkhtmltopdf.org/downloads.html).
+
+**Linux user**
+```terminal
+sudo apt-get install wkhtmltopdf
+# or
+sudo apt install wkhtmltopdf
+```
+
 Import the source code to your project, and read the examples.
 ```python
 
